@@ -53,15 +53,3 @@ npm run dev
 ```
 
 Then open the local URL shown in your terminal (usually `http://localhost:5173`).
-
-## Available Scripts
-
-- `npm run dev` - start development server
-- `npm run build` - create production build
-- `npm run preview` - preview production build locally
-- `npm run lint` - run ESLint checks
-- `npm run deploy` - deploy `dist` to GitHub Pages
-
-## Deployment
-
-This project is configured for GitHub Pages using the `gh-pages` package and the `homepage` value in `package.json`.
