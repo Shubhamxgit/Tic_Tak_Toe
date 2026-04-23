@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built with React and Vite.
 
 ## Live Demo
 
-Deployed at: https://Shubhamxgit.github.io/Tic_Tak_Toe
+Deployed at: [https://Shubhamxgit.github.io/Tic_Tak_Toe](https://tic-tak-toe-pied.vercel.app/)
 
 ## Features
 
